@@ -25,3 +25,10 @@ Using my scraped data I created seniority levels based on the job title. As such
 * Trainee
 * Mid-Level
 * Senior
+
+Using Matplotlib and Seaborn I then visualised:
+
+* The companies who offer most of the jobs
+* The demanded skills, by role (Data Scientist, Data Analyst, Data Engineer
+* The locations
+* Work types by location (ie. remote vs. on-site)
